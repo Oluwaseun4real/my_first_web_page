@@ -1,0 +1,454 @@
+@import url('https://fonts.googleapis.com/css2?family=Actor&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.head{
+    /*border: 1px blue solid;*/
+    position: sticky;
+    top: 0px;
+    display: flex;
+    margin-bottom: 0px;
+    background-color: white;
+    border-bottom: 10px #EFEFEF solid;
+    
+  
+}
+.logo{
+    padding-left: 40px;
+    max-height: 20%;
+    max-width: 20%;
+}
+.home{
+    display: flex;
+    padding-left: 450px;
+    padding-top: 30px;
+    gap: 70px;
+    font-family: 'Actor';
+    font-size: 18px;
+
+}
+.free{
+    padding-left: 50px;
+    padding-top: 25px;
+    color: white;
+}
+button{
+    border: none;
+    background-color: #1545BD;
+    width: 80px;
+    height: 30px;
+    color: white;
+    font-family: 'actor';
+    border-radius: 30px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: #241e1e;
+}
+a:hover{
+    color: blue;
+}
+.line{
+    margin-top: 0px;
+}
+.group_two{
+    background-image: url(./image/Rectangle\ 25.svg);
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+.group_c{
+    display: flex;
+    gap: 20px;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 20px;
+}
+.group_d{
+    padding-top: 200px;
+    padding-left: 120px;
+}
+.group_e{
+    margin-top:  80px;
+    border-radius: 30px;
+    width: 300px;
+    height: 45px;
+    background-image: url(./image/check.svg);
+    background-repeat: no-repeat;
+    background-color:#EFEFEF;
+}
+.group_j{
+    display: flex;
+    padding-top: 30px;
+    gap: 8px;
+}
+.videos{
+    padding-top: 6px;
+    color: #1545BD;
+    font-family: 'actor';
+    font-size: 18px;
+}
+.star_three{
+    padding-top: 200px;
+}
+.star_two{
+    padding-left: 20px;
+}
+.star_one{
+    padding-left: 80px;
+    padding-top: 40px;
+}
+.group_g{
+    font-family: 'actor';
+    font-size: 43px;
+    padding-top: 5px;
+}
+.group_h{
+    display: flex;
+    gap: 20px;
+}
+.group_i{
+    font-family: 'actor';
+    font-size: 18px;
+}
+.group_phone{
+    padding-left: 100px;
+    margin-top: 20px;
+}
+.best{
+    font-family: 'actor';
+    font-size: 20px;
+    padding-left: 45px;
+    padding-top: 15px;
+}
+/*.check{
+    width: 30px;
+    margin-top: 10px;*/
+}
+.group_h{
+    display: flex;
+}
+ .third{
+    display: flex;
+    padding-left: 100px;
+    gap: 50px;
+ }
+.words{
+    padding-top: 150px;
+}
+.awesome{
+    font-family: 'Actor';
+    font-size: 50px;
+}
+.max{
+    display: flex;
+    gap: 10px;
+    padding-top: 50px;
+}
+.fast{
+    font-family: 'Roboto';
+    font-size: 30px;
+    color: #ED4657;
+}
+.dolor{
+     font-family: 'Roboto';
+     font-size: 13px;
+     padding-top: 10px;
+}
+.vector{
+    font-family: 'Roboto';
+    font-size: 30px;
+    color: #39A962;
+}
+.prototype{
+    font-family: 'Roboto';
+    font-size: 30px;
+    color: #366FFF;
+}
+.forth{
+    background-image: url(./image/Rectangle\ 13.svg);
+    height: 600px;
+    border-bottom: 0px;
+}
+.top{
+    display: flex;
+    gap: 30px;
+    font-family: 'Roboto';
+    padding-top: 100px;
+    /*padding-left: 100px;
+   /*padding-right: 100px;*/
+}
+.pay{
+    display: flex;
+    padding-top: 70px;
+    gap: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.smart{
+    font-size: 60px;
+    padding-left: 80px;
+}
+.ipsum{
+    font-size: 25px;
+    padding-left:10px ;
+    padding-right: 10px;
+}
+.auto{
+    font-family: 'Roboto';
+    font-size: 30px;
+    color: #ED4657;
+}
+.big{
+    font-family: 'Roboto';
+    font-size: 30px;
+    color:#39A962;
+}
+.net{
+    font-family: 'Roboto';
+    font-size: 30px;
+    color: #1545BD;
+
+}
+.sit{
+    font-family: "roboto";
+    font-size: 15px;
+    padding-top: 10px;
+}
+.fifth{
+    display: flex;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.design{
+    font-family: "roboto";
+    padding-top: 130px;
+}
+.dev{
+    font-size: 80px;
+}
+.sed{
+    padding-top: 20px;
+    font-size: 18px ;
+}
+.fre{
+    padding-top: 40px;
+}
+.sixth{
+    background-image: url(./image/Rectangle\ 21.svg);
+    background-repeat: no-repeat;
+    height: 750px;
+}
+.app{
+    text-align: center;
+    font-family: 'roboto';
+    padding-top: 40px;
+    font-size: 52px;
+}
+.set{
+    text-align: center;
+    font-family: 'roboto';
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 20px;
+    font-size: 19px;
+}
+.group1{
+       display: flex;
+       font-family: 'roboto';
+       padding-top: 60px;
+       padding-left: 70px ;
+       padding-right: 70px;
+       gap: 200px;
+}
+.group2{
+    display: flex;
+    font-family: 'roboto';
+    padding-top: 60px;
+    padding-left: 70px ;
+    padding-right: 70px;
+    gap: 200px;
+}
+.seventh{
+    /*border: 1px blue solid;*/
+    display: flex;
+    gap: 20px;
+    padding-left: 50px;
+    margin-bottom: 0px;
+    height: 1200px;
+  
+}
+.features{
+    padding-top: 170px;
+    
+}
+.ultimate{
+    font-family: 'roboto';
+    font-size: 52px;
+}
+.vivamus{
+    font-family: 'roboto';
+    font-size: 20px;
+    padding-top: 5px;
+    color: #1E1E1E;
+}
+.group_three{
+    padding-top: 50px;
+    font-family: 'roboto';
+}
+.ui{
+    font-size: 30px;
+    color: #548290;
+}
+
+.group_four{
+    padding-top: 50px;
+    font-family: 'roboto'; 
+}
+.service{
+    font-size: 30px;
+    color: #FD90FF;
+}
+.nisl{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.phone_two{
+    padding-top: 0px; 
+    
+}
+.eighth{
+    
+    background-image: url(./image/Rectangle\ 28.svg);
+    height: 300px;
+    
+    
+}
+.group_six{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 20px;
+    gap: 20px;
+    
+}
+.support{
+    text-align: center;
+    font: 'roboto';
+    font-size: 20px;
+    padding-top: 30px;
+    
+}
+.ninth{
+
+font-family: 'roboto';
+}
+.get_awesome{
+    font-size: 52px;
+    text-align: center;
+    padding-top: 60px;
+}
+.tortor{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+.group_six{
+   justify-content: center;
+   padding-top: 30px;
+    
+}
+.master_group{
+    
+}
+.group_seven{
+    border: 1px  #83C9DF solid;
+    width: 200px;
+    height: 400px;
+    border-radius: 10px;
+}
+.group_eight{
+    background-image: url(./image/Rectangle\ 38.svg);
+    height: 170px;
+}
+.group_nine{
+    text-align: center;
+    font-family: 'roboto';
+    display: flex;
+    padding-top: 20px;
+}
+.dollar{
+    font-family: 'roboto';
+    font-size: 120px;
+    padding-left: 20px;
+}
+.month{
+    font-family: 'roboto';
+    font-size: 30px;
+    padding-top: 55px;
+   
+}
+.business{
+ font-family: 'roboto';
+ font-size: 35px;
+ text-align: center;
+}
+.group_ten{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+}
+.subscribe{
+    margin-left: 50px;
+    margin-top: 20px;
+    
+}
+.group_thirteen{
+    border: 1px #83C9DF solid;
+    width: 200px;
+    height: 400px;
+    border-radius: 10px;
+}
+.group_eleven{
+    background-image: url(./image/Rectangle\ 38.svg);
+    height: 170px;
+}
+.group_twelve{
+    text-align: center;
+    font-family: 'roboto';
+    display: flex;
+    padding-top: 20px; 
+}
+.five{
+    font-family: 'roboto';
+    font-size: 120px;
+    padding-left: 20px; 
+}
+.year{
+    font-family: 'roboto';
+    font-size: 30px;
+    padding-top: 55px; 
+}
+.master{
+    font-family: 'roboto';
+    font-size: 35px;
+    text-align: center;
+}
+.group_a{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding-top: 20px ;
+}
+.copy{
+    background-image: url(./image/Rectangle\ 35.svg);
+    height: 50px;
+    padding-top: 15px;
+    padding-left: 50px;
+    margin-top: 60px;
+    font-size: 25px;
+    font-family: 'roboto;
+    
+}
